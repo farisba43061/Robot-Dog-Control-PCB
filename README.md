@@ -69,3 +69,9 @@ The PCB was designed in **EasyEDA** using two copper layers. Components were arr
 ## Design Check
 
 The final PCB routing was checked using EasyEDA's **Design Rule Check (DRC)** to verify the connections and detect routing errors.
+
+## Author
+
+**Faris Bahussain**
+
+Electrical Engineering, Electronics, and Internet of Things (IoT) Track
